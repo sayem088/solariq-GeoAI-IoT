@@ -1,0 +1,84 @@
+# =========================================================================
+# SolariQ Workspace Root .gitignore
+# =========================================================================
+
+# Dependencies
+node_modules/
+**/node_modules/
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Next.js Build Outputs
+.next/
+**/.next/
+out/
+**/out/
+build/
+**/build/
+dist/
+**/dist/
+
+# Vercel Deployment Artifacts
+.vercel/
+**/.vercel/
+
+# TypeScript & Cache
+*.tsbuildinfo
+**/*.tsbuildinfo
+next-env.d.ts
+
+# Environment Variables & Private Secrets
+.env
+.env*.local
+.env.production
+**/.env
+**/.env*.local
+**/.env.production
+*.pem
+
+# Logs & Diagnostics
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+logs/
+*.log
+
+# Arduino / Embedded Temporary Build Files
+*.tmp
+*.bak
+*.hex
+*.elf
+*.bin
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# IDE Settings (Keep repo clean across different developer machines)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Markdown Documentation & Notes (Exclude internal notes, allow README)
+*.md
+**/*.md
+!README.md
+!**/README.md
+
+# Private Pitch Ideas & Internal Proposals
+Ideas/
+Ideas

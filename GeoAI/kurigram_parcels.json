@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "name": "SolariQ_Dharla_Canal_Cadastral_Parcels",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_id": "PLOT-1",
+        "farmer_name": "Abdul Malek",
+        "area_decimals": 10.0,
+        "crop_type": "Boro Rice (BRRI dhan-28)",
+        "crop_stage": "Tillering",
+        "kc": 1.15,
+        "initial_water_level_cm": 1.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [89.64182, 25.81585],
+            [89.64225, 25.81591],
+            [89.64231, 25.81552],
+            [89.64188, 25.81546],
+            [89.64182, 25.81585]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_id": "PLOT-2",
+        "farmer_name": "Rashida Begum",
+        "area_decimals": 10.0,
+        "crop_type": "Boro Rice (BRRI dhan-28)",
+        "crop_stage": "Tillering",
+        "kc": 1.15,
+        "initial_water_level_cm": -2.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [89.64235, 25.81592],
+            [89.64278, 25.81598],
+            [89.64284, 25.81559],
+            [89.64241, 25.81553],
+            [89.64235, 25.81592]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_id": "PLOT-3",
+        "farmer_name": "Mofizul Haque",
+        "area_decimals": 10.0,
+        "crop_type": "Boro Rice (BRRI dhan-29)",
+        "crop_stage": "Early Vegetative",
+        "kc": 1.10,
+        "initial_water_level_cm": 3.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [89.64288, 25.81600],
+            [89.64331, 25.81606],
+            [89.64337, 25.81567],
+            [89.64294, 25.81561],
+            [89.64288, 25.81600]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_id": "PLOT-4",
+        "farmer_name": "Golam Mostafa",
+        "area_decimals": 10.0,
+        "crop_type": "Boro Rice (BRRI dhan-28)",
+        "crop_stage": "Tillering",
+        "kc": 1.15,
+        "initial_water_level_cm": -6.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [89.64341, 25.81607],
+            [89.64384, 25.81613],
+            [89.64390, 25.81574],
+            [89.64347, 25.81568],
+            [89.64341, 25.81607]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_id": "PLOT-5",
+        "farmer_name": "Nurul Islam",
+        "area_decimals": 10.0,
+        "crop_type": "Boro Rice (BRRI dhan-28)",
+        "crop_stage": "Panicle Initiation",
+        "kc": 1.28,
+        "initial_water_level_cm": -12.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [89.64394, 25.81614],
+            [89.64437, 25.81620],
+            [89.64443, 25.81581],
+            [89.64400, 25.81575],
+            [89.64394, 25.81614]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "plot_id": "PLOT-6",
+        "farmer_name": "Anowar Hossain",
+        "area_decimals": 10.0,
+        "crop_type": "Boro Rice (BRRI dhan-29)",
+        "crop_stage": "Grain Filling",
+        "kc": 1.05,
+        "initial_water_level_cm": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [89.64447, 25.81622],
+            [89.64490, 25.81628],
+            [89.64496, 25.81589],
+            [89.64453, 25.81583],
+            [89.64447, 25.81622]
+          ]
+        ]
+      }
+    }
+  ]
+}
