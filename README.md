@@ -30,7 +30,7 @@
     <td width="42%" align="center">
       <img src="./win-1.jpeg" alt="With ESDM Faculty Lecturer" width="100%" />
       <br />
-      <sub><b>Figure 2:</b> With ESDM Lecturer at the Department of Environmental Science and Disaster Management, holding the BDT 10,000 Runner-Up cheque and plant memento.</sub>
+      
     </td>
     <td width="58%" align="center">
       <img src="./win-3.jpeg" alt="Team on Stage with Dignitary" width="100%" />
